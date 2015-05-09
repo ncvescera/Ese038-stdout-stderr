@@ -67,5 +67,18 @@
       <item path="main.c" ex="false" tool="0" flavor2="0">
       </item>
     </conf>
+    <conf name="External" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+      </compileType>
+      <item path="README.md" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.c" ex="false" tool="0" flavor2="0">
+      </item>
+    </conf>
   </confs>
 </configurationDescriptor>
